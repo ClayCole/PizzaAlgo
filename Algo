@@ -1,4 +1,8 @@
-1. Call Res to place order
-2. Tip Driver 
-3. Eat pizza. 
-4. Edit made for branching. 
+1. Decide on pizza place
+2. Decide on toppings
+3. Call Pizza Place
+	3a. Decide to pay with card
+	3b. Decide to pay with cash
+4. Wait on Pizza
+5. Pay Delivery person
+6. Eat Pizza 
